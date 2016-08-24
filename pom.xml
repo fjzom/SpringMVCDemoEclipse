@@ -25,10 +25,9 @@
         </configuration>
       </plugin>
     </plugins>
-  </build>
+  </build>  
   
-  
-    	<dependencies>
+   <dependencies>
 	<dependency>
 		<groupId>javax.servlet</groupId>
 		<artifactId>javax.servlet-api</artifactId>
