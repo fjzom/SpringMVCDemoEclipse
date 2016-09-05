@@ -7,7 +7,7 @@ import org.springframework.ui.ModelMap;
 
 import com.tutorialspoint.Student;
 import com.tutorialspoint.StudentController;
-
+//github auto build jenkins
 public class StudentControllerTest {
 
 	@Test
